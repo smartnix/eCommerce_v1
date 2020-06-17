@@ -10,7 +10,8 @@ export default
         brand:'Chevignon',
         rating:4.5,
         numReviews:10,
-        description:'lorem20'
+        description:'lorem20',
+        countInStock: 0
     },
     {
         _id:2,
@@ -21,7 +22,8 @@ export default
         brand:'Chevignon',
         rating:4.5,
         numReviews:10,
-        description:'lorem20'
+        description:'lorem20',
+        countInStock: 8
     },
     {
         _id:3,
@@ -32,7 +34,8 @@ export default
         brand:'Chevignon',
         rating:4.5,
         numReviews:10,
-        description:'lorem20'
+        description:'lorem20',
+        countInStock: 8
     },
     {
         _id:4,
@@ -43,7 +46,8 @@ export default
         brand:'Chevignon',
         rating:4.5,
         numReviews:10,
-        description:'lorem20'
+        description:'lorem20',
+        countInStock: 6
     },
     {
         _id:5,
@@ -54,7 +58,8 @@ export default
         brand:'Chevignon',
         rating:4.5,
         numReviews:10,
-        description:'lorem20'
+        description:'lorem20',
+        countInStock: 6
     }
 ]
 }
